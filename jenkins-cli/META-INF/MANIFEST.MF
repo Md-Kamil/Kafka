@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.4.2
+Build-Jdk-Spec: 21
+Specification-Title: Jenkins cli
+Specification-Version: 2.541
+Implementation-Title: Jenkins cli
+Implementation-Version: 2.541.3
+Implementation-Build: 4d8ef2fcf426ba73554572e4a60d4ac937ac5f43
+Main-Class: hudson.cli.CLI
+Jenkins-CLI-Version: 2.541.3
+

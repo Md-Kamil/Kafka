@@ -1,0 +1,2 @@
+io.jenkins.cli.shaded.org.bouncycastle.jce.provider.BouncyCastleProvider
+io.jenkins.cli.shaded.org.bouncycastle.pqc.jcajce.provider.BouncyCastlePQCProvider
